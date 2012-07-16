@@ -1,6 +1,8 @@
 /*global document, window,  setTimeout */
 /* 
  * onDomReady, Copyright © 2010 Jakob Mattsson
+ *
+ * Refactored by @pgchamberlin, 2012. Not sure what that does to the copyright. I'd like my work on this to be public domain.
  * 
  * This is a small implementation of an onDomReady-function, for situations when frameworks are no-no.
  * It's loosely based on jQuery's implementation of $.ready, Copyright (c) 2010 John Resig, http://jquery.com/
